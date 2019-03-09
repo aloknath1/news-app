@@ -1,0 +1,22 @@
+body{
+    margin:8px;
+    font-weight:300;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-transform: uppercase;
+    font-weight: 300;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+main{
+    display: grid;
+}
+img{
+    width:300px;
+    height:250px;
+}
